@@ -1,9 +1,9 @@
 ---
 title: "News"
-layout: default
-excerpt: "RT2 Lab at Institut Curie"
+layout: textlay
+excerpt: "Allan Lab at Leiden University."
 sitemap: false
-permalink: /news.html
+permalink: /allnews.html
 ---
 <h1>{{page.title}}</h1>
 
