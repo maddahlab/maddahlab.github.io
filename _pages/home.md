@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Maddah Lab"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Maddah-Ali Lab at University of Minnesota."
 sitemap: false
 permalink: /
 ---
