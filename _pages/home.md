@@ -36,10 +36,10 @@ In this direction, we also radically extended secure multi-party computation (MP
             <img src="{{ site.url }}{{ site.baseurl }}/images/letcc.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/gameofcoding.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/gameofcoding.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/intalgin.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/intalgin.png" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
