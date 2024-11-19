@@ -15,7 +15,7 @@ permalink: /
 <h2>Research</h2>
 The general theme of our research is to develop innovative approaches to characterize and achieve the fundamental limits of reliable, trustworthy, and verifiable distributed systems, including distributed computing and machine learning, content delivery networks, and distributed ledgers (blockchains). 
 
-<h2>Secure and Private Distributed Computing</h2>
+<h3>Secure and Private Distributed Computing</h3>
 Distributed computing raises a long list of challenges, including the heavy load of communication, the existence of stragglers, information leakage to external servers, etc. We took the first step toward understanding distributed computing from an information-theoretic perspective. We characterized the communication-computation trade-off for one of the most popular general-purpose settings, adopted in MapReduce and Apache Spark. In addition, we developed a coding approach that achieves the optimum trade-off and significantly reduces the communication load. While the benefits of coding in dealing with the stragglers in linear and bilinear computations, such as distributed massive matrix multiplications, were studied in the 80’s , designing the optimum code remained an open problem. In this regard, we developed a creative polynomial-based coding technique with optimum robustness against stragglers.
 
 In this direction, we also radically extended secure multi-party computation (MPC) to handle massive computations, a subject that has been overlooked in the field. We also developed efficient and practical approaches to private machine learning, and straggler-resistant massive approximate computation, particularly for machine learning applications.
