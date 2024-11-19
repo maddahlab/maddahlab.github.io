@@ -6,9 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-<div class="item active">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
-</div>
+
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -54,6 +53,9 @@ permalink: /
 </div>
 
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+</figure>
  
 <h2>Research</h2>
 The general theme of our research is to develop innovative approaches to characterize and achieve the fundamental limits of reliable, trustworthy, and verifiable distributed systems, including distributed computing and machine learning, content delivery networks, and distributed ledgers (blockchains). 
