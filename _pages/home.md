@@ -27,7 +27,6 @@ In this direction, we also radically extended secure multi-party computation (MP
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
@@ -37,9 +36,6 @@ In this direction, we also radically extended secure multi-party computation (MP
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/gameofcoding.png" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/intalgin.png" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
