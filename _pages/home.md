@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-<div id="top-image" style="text-align: center; margin-bottom: 20px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/top_image.jpg" style="width: 210px">
-</div>
+<figure class="fourth">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/top_image.jpg">
+</figure>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
