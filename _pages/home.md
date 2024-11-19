@@ -6,8 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-
-
+<div id="top-image" style="text-align: center; margin-bottom: 20px;">
+    <figure>
+        <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+    </figure>
+</div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -52,10 +55,6 @@ permalink: /
   </a>
 </div>
 
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
  
 <h2>Research</h2>
 The general theme of our research is to develop innovative approaches to characterize and achieve the fundamental limits of reliable, trustworthy, and verifiable distributed systems, including distributed computing and machine learning, content delivery networks, and distributed ledgers (blockchains). 
