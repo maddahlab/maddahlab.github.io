@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-<figure class="fourth">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/top_image.jpg">
-</figure>
+<div class="item active">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+</div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
